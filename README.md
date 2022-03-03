@@ -1,2 +1,3 @@
-# kaggle
-Directory for different kaggle competitions.
+# Kaggle competitions
+
+Home directory for different kaggle competitions.
